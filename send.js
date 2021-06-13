@@ -12,7 +12,7 @@ let sender = "TXTCUS";
 //the message to send
 let sms="Hello from textcus,making sms simple for developers"
 
-//encodeURI() inbuilt js function for UTF-8 encoding
+//encodeURI()  function for UTF-8 encoding
 let smsEncode = encodeURI(sms);
 
 //recipient phone number in international format
